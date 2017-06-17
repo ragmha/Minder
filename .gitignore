@@ -1,0 +1,11 @@
+node_modules
+
+.idea
+.temp
+.sass-cache
+.DS_Store
+
+platforms/
+plugins/
+resources/
+www/lib

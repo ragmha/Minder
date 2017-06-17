@@ -1,0 +1,28 @@
+{
+  "name": "Minder",
+  "version": "1.0.0",
+  "description": "Minder: Tinder for music using spotify API",
+  "dependencies": {
+    "cordova-ios": "4.4.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "4.5.3"
+  },
+  "devDependencies": {
+    "@ionic/cli-plugin-cordova": "1.4.0",
+    "@ionic/cli-plugin-gulp": "1.0.1",
+    "@ionic/cli-plugin-ionic1": "2.0.0",
+    "bower": "^1.4.1",
+    "gulp-util": "^3.0.4",
+    "shelljs": "0.7.8"
+  },
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
