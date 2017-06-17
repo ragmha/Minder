@@ -5,6 +5,11 @@
   <img src="./minder.gif"/>
 </p>
 
+---
+
+### NOTE ✋ ⚠️  This uses `Ionic v1`, use it for reference purpose, upgrading to `Ionic v3` is planned for future
+---
+
 
 ## 🔧 Prerequisites
 
@@ -13,11 +18,11 @@
 * [Ionic cli](https://ionicframework.com/docs/cli/)
 
 ## 🚀 Getting Started
-* ` npm install -g ionic cordova`
+* ` yarn global add ionic cordova`
 
-* ` git clone https://github.com/rgbm21/Minder.git`
+* ` git clone https://github.com/ragmha/minder.git`
 
-* ` yarn install`
+* ` yarn`
 
 * ` ionic serve[options]`
 
